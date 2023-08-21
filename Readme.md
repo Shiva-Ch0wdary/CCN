@@ -34,6 +34,7 @@ The **Routing Information Protocol** (**RIP**) is one of the oldest distance-vec
 
 
 **FUNCTIONING OF RIP:-**
+
 <img src="Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.002.png" width="500" height="600">
 
 
@@ -41,6 +42,8 @@ In Above example there are 8 routers in a network where Router 1 wants to send t
 
 
 `       `**Traffic sent comparison on small mesh Topology**
+
+
 <img src="Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.003.jpeg" width="500" height="600">
 
 
@@ -65,14 +68,17 @@ initial traffic since the OSPF will map out the network which requires routers t
 ` `**Screenshots of Topology,Trace file & Output**
 
 **(i)Topology**
-<img src="Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.003.jpeg" width="500" height="600">
 
-Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.004.png
+
+<img src="Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.004.png" width="500" height="600">
+
+
 
 
 
 
 **(ii)Trace Route**
+
 <img src="Aspose.Words.47a15871-93c9-4492-992d-6d2610f7946a.005.png" width="500" height="600">
 
 
